@@ -1,11 +1,11 @@
 # OpenLab OOP
 
-Repozitár obsahuje úlohy a projekty zamerané na objektovo orientované programovanie (OOP), princípy čistého kódu a návrhové vzory, ktoré vznikli počas môjho pôsobenia v OpenLabe (Siemens Healthineers).
+This repository contains tasks and projects focused on Object-Oriented Programming (OOP), clean code principles, and design patterns developed during my time in the OpenLab program (Siemens Healthineers).
 
-## Obsah
-- Praktické ukážky štyroch pilierov OOP (zapuzdrenie, dedičnosť, polymorfizmus, abstrakcia)
-- Aplikácia SOLID princípov
-- Implementácia vybraných návrhových vzorov
+## Content
+- Practical examples of the four pillars of OOP (encapsulation, inheritance, polymorphism, abstraction)
+- Application of SOLID principles
+- Implementation of selected design patterns
 
-## Technológie
-* C#
+## Technologies
+* C# 
